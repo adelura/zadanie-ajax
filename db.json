@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Document Object Model",
+      "content": "Bla bla bla.",
+      "author": "Artur Delura"
+    },
+    {
+      "id": 2,
+      "title": "REST",
+      "content": "Bla bla bla.",
+      "author": "Gosia Ksionek"
+    },
+    {
+      "id": 3,
+      "title": "AJAX",
+      "content": "Bla bla bla.",
+      "author": "Gosia Ksionek"
+    }
+  ],
+  "comments": [],
+  "favicon.ico": []
+}
